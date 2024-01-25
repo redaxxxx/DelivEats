@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DelivEats</string>
+    <string name="title">"Find your Comfort \n Food here"</string>
+    <string name="subtitle">"Here You Can find a chef or dish for every \n taste and color. Enjoy!</string>
+
+    <string name="home_string">Home</string>
+    <string name="profile_string">Profile</string>
+    <string name="cart_string">Cart</string>
+    <string name="chat_string">Chat</string>
+
+    <string name="title_in_home">Find Your \nFavorite Food</string>
+    <string name="text_in_search_box">What do you want to order?</string>
+    <string name="promotion_title">Special Deal For \nOctober</string>
+    
+    <string name="nearest_restaurant_text">Nearest Restaurant</string>
+    <string name="popular_menu_text">Popular Menu</string>
+    <string name="view_more_text">View More</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buy_text">Buy</string>
+
+</resources>
